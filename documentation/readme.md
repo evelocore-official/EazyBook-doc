@@ -85,16 +85,20 @@ The application consists of two sides: **Doctor** and **Patient**.
 ## Incompleated Works
 
 > Payment Method
-
+> 
 > Hosting
-
+>
 > Testing
 
 ## Requirements
 
 > Domain name
-
+>
 > Cloud vps
+>
+> WhatsApp Account
+>
+> Payment Gateway
 
 ## Development payment
 
