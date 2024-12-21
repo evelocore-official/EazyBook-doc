@@ -103,6 +103,17 @@ The application consists of two sides: **Doctor** and **Patient**.
 >
 > Payment Gateway
 
+## Cost
+
+> (Domain) | price > $9
+> (VPS) | Contabo.com | 6 core | 16gb Ram | 200gb storage | $135 for 1 Year
+>
+> (PayHere gateway) | BR registation | Bank Account | 3000LKR
+>
+> (Google Play Console) | $25
+
+
+
 ## Development payment
 
 > It is your decision to make the cost reasonable relative to the work
