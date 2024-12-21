@@ -106,6 +106,7 @@ The application consists of two sides: **Doctor** and **Patient**.
 ## Cost
 
 > (Domain) | price > $9
+> 
 > (VPS) | Contabo.com | 6 core | 16gb Ram | 200gb storage | $135 for 1 Year
 >
 > (PayHere gateway) | BR registation | Bank Account | 3000LKR
