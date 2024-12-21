@@ -84,6 +84,10 @@ The application consists of two sides: **Doctor** and **Patient**.
 
 ## **Notification Service**  
 
+### 💬 Login OTP 
+- Receive the OTP code via WhatsApp for secure login.
+<img src="./media/ss (17).png" style="max-width: 500px;" /> 
+
 ### 💬 Appointment 
 - Patients receive a WhatsApp notification after booking an appointment.  
 <img src="./media/ss (15).png" style="max-width: 500px;" />  
