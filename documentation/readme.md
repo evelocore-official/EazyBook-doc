@@ -15,6 +15,7 @@ The application consists of two sides: **Doctor** and **Patient**.
 - Upon login, they access the dashboard to manage events.
 - Doctors can't log in from multiple devices for the security.
 <img src="./media/ss (11).png" />
+<img src="./media/ss (14).png" />
 
 ### 🧢 Timetable Management
 - Doctors can create and manage their weekly timetables.
