@@ -1,5 +1,5 @@
 # Roadmap for EasyBook Doc Channel System  
-> Powered by eveloCore  
+> Powered by Evelocore  
 
 The application consists of two sides: **Doctor** and **Patient**.  
 
