@@ -127,7 +127,7 @@ The application consists of two sides: **Doctor** and **Patient**.
 
 ## Development Payment  
 
-- LKR 160,000
+- $ 547.33 (LKR 160,000)
 
 ---
 
