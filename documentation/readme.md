@@ -50,19 +50,19 @@ The application consists of two sides: **Doctor** and **Patient**.
 
 ## **Patient Side**  
 
-### 🍅 Login/Signup  
+### 💊 Login/Signup  
 - Patients sign up by entering their phone number (e.g., 07...).  
 - They receive an OTP for verification and complete their profile.  
 - Patients cannot log in from multiple devices.  
 <img src="./media/ss (1).png" style="max-width: 500px;" />  
 
-### 🍅 Dashboard  
+### 💊 Dashboard  
 - Displays upcoming appointments.  
 - When an event starts, patients see a **Visit** button to view live event progress.  
 - Patients can also edit their personal information.  
 <img src="./media/ss (7).png" style="max-width: 500px;" />  
 
-### 🍅 Search for Doctors  
+### 💊 Search for Doctors  
 - Patients can search for doctors by name.  
 - View the selected doctor’s timetable and events.  
 - Book an appointment by selecting a preferred event and clicking the **Channel** button.  
@@ -70,7 +70,7 @@ The application consists of two sides: **Doctor** and **Patient**.
 <img src="./media/ss (8).png" style="max-width: 500px;" />  
 <img src="./media/ss (9).png" style="max-width: 500px;" />  
 
-### 🍅 Event  
+### 💊 Event  
 - When an event starts, patients can click the **Visit** button to view live progress.  
 - The live interface displays:  
   - **Current Appointment Number**  
