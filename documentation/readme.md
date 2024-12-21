@@ -1,124 +1,132 @@
-# Roadmap for EasyBook Doc Channel System 
-> Powered by evelocore
+# Roadmap for EasyBook Doc Channel System  
+> Powered by eveloCore  
 
-The application consists of two sides: **Doctor** and **Patient**.
+The application consists of two sides: **Doctor** and **Patient**.  
 
-
-<img src="./media/ss (2).png" />
-
----
-
-## **Doctor Side**
-
-### 🧢 Signup/Login via WhatsApp OTP
-- Doctors sign up or log in using a WhatsApp OTP.
-- Upon login, they access the dashboard to manage events.
-- Doctors can't log in from multiple devices for the security.
-<img src="./media/ss (11).png" />
-<img src="./media/ss (14).png" />
-
-### 🧢 Timetable Management
-- Doctors can create and manage their weekly timetables.
-- The timetable includes days of the week (Mon, Tue, Wed, Thu, Fri, Sat, Sun).
-- Multiple events can be scheduled on the same day.
-- Each event includes:
-  - **Title**
-  - **Start/End Time**
-  - **Place**
-  - **Location on Map**
-<img src="./media/ss (4).png" />
-
-### 🧢 Dashboard
-- Displays all events for the current week.
-- Selecting an event allows the doctor to view the next 5 occurrences of that weekday (e.g., the next 5 Mondays).
-- The doctor can see all appointments scheduled for each occurrence.
-- On a scheduled date, the doctor can start the event, and all patients are notified via WhatsApp.
-<img src="./media/ss (5).png" />
-<img src="./media/ss (6).png" />
-
-### 🧢 Event Control Panel
-- During an event, the doctor can access a control panel to:
-  - Move appointment numbers up or down.
-  - Select specific patients directly.
-  - Patients can view updates live.
-<img src="./media/ss (10).png" />
-
-### 🧢 Account Management
-- Doctors can update their personal information.
-<img src="./media/ss (3).png" />
+<img src="./media/ss (2).png" style="max-width: 500px;" />  
 
 ---
 
-## **Patient Side**
+## **Doctor Side**  
 
-### 🍅 Login/Signup
-- Patients sign up by entering their phone number (e.g., 07...).
-- They receive an OTP for verification and complete their profile.
-- Patients can't log in from multiple devices.
-<img src="./media/ss (1).png" />
+### 🩺 Signup/Login via WhatsApp OTP  
+- Doctors sign up or log in using a WhatsApp OTP.  
+- Upon login, they access the dashboard to manage events.  
+- Doctors cannot log in from multiple devices for security reasons.  
+<img src="./media/ss (11).png" style="max-width: 500px;" />  
+<img src="./media/ss (14).png" style="max-width: 500px;" />  
 
-### 🍅 Dashboard
-- Displays upcoming appointments.
-- When an event starts, patients see a **Visit** button to view live event progress.
-- Patients can also edit their personal information.
-<img src="./media/ss (7).png" />
+### 🩺 Timetable Management  
+- Doctors can create and manage their weekly timetables.  
+- The timetable includes days of the week (Mon, Tue, Wed, Thu, Fri, Sat, Sun).  
+- Multiple events can be scheduled on the same day.  
+- Each event includes:  
+  - **Title**  
+  - **Start/End Time**  
+  - **Place**  
+  - **Location on Map**  
+<img src="./media/ss (4).png" style="max-width: 500px;" />  
 
-### 🍅 Search for Doctors
-- Patients can search for doctors by name.
-- View the selected doctor’s timetable and events.
-- Book an appointment by selecting a preferred event and clicking the **Channel** button.
-- View the next 5 occurrences of the event and choose a date to make an appointment.
-<img src="./media/ss (8).png" />
-<img src="./media/ss (9).png" />
+### 🩺 Dashboard  
+- Displays all events for the current week.  
+- Selecting an event allows the doctor to view the next 5 occurrences of that weekday (e.g., the next 5 Mondays).  
+- The doctor can see all appointments scheduled for each occurrence.  
+- On a scheduled date, the doctor can start the event, and all patients are notified via WhatsApp.  
+<img src="./media/ss (5).png" style="max-width: 500px;" />  
+<img src="./media/ss (6).png" style="max-width: 500px;" />  
 
-### 🍅 Event
-- When an event starts, patients can click the **Visit** button to view live progress.
-- The live interface displays:
-  - **Current Appointment Number**
-  - **Your Appointment Number**
-  - **Current Patient**
-- When a patient's turn comes, a nurse opens the door and announces the appointment number along with the patient’s name.
-<img src="./media/ss (13).png" />
-<img src="./media/ss (12).png" />
+### 🩺 Event Control Panel  
+- During an event, the doctor can access a control panel to:  
+  - Move appointment numbers up or down.  
+  - Select specific patients directly.  
+  - Patients can view updates live.  
+<img src="./media/ss (10).png" style="max-width: 500px;" />  
+
+### 🩺 Account Management  
+- Doctors can update their personal information.  
+<img src="./media/ss (3).png" style="max-width: 500px;" />  
 
 ---
 
-## Incompleated Works
+## **Patient Side**  
 
-> Payment Method
-> 
-> Hosting
->
-> Testing
->
-> Mobile App
+### 🍅 Login/Signup  
+- Patients sign up by entering their phone number (e.g., 07...).  
+- They receive an OTP for verification and complete their profile.  
+- Patients cannot log in from multiple devices.  
+<img src="./media/ss (1).png" style="max-width: 500px;" />  
 
-## Requirements
+### 🍅 Dashboard  
+- Displays upcoming appointments.  
+- When an event starts, patients see a **Visit** button to view live event progress.  
+- Patients can also edit their personal information.  
+<img src="./media/ss (7).png" style="max-width: 500px;" />  
 
-> Domain name
->
-> Cloud vps
->
-> WhatsApp Account
->
-> Payment Gateway
+### 🍅 Search for Doctors  
+- Patients can search for doctors by name.  
+- View the selected doctor’s timetable and events.  
+- Book an appointment by selecting a preferred event and clicking the **Channel** button.  
+- View the next 5 occurrences of the event and choose a date to make an appointment.  
+<img src="./media/ss (8).png" style="max-width: 500px;" />  
+<img src="./media/ss (9).png" style="max-width: 500px;" />  
 
-## Cost
+### 🍅 Event  
+- When an event starts, patients can click the **Visit** button to view live progress.  
+- The live interface displays:  
+  - **Current Appointment Number**  
+  - **Your Appointment Number**  
+  - **Current Patient**  
+- When a patient's turn comes, a nurse opens the door and announces the appointment number along with the patient’s name.  
+<img src="./media/ss (13).png" style="max-width: 500px;" />  
+<img src="./media/ss (12).png" style="max-width: 500px;" />  
 
-> (Domain) | price > $9
-> 
-> (VPS) | Contabo.com | 6 core | 16gb Ram | 200gb storage | $135 for 1 Year
->
-> (PayHere gateway) | BR registation | Bank Account | 3000LKR
->
-> (Google Play Console) | $25
+---
 
+## **Notification Service**  
 
+### 💬 Appointment 
+- Patients receive a WhatsApp notification after booking an appointment.  
+<img src="./media/ss (15).png" style="max-width: 500px;" />  
 
-## Development payment
+### 💬 Event Started  
+- Patients receive a WhatsApp notification when the doctor starts their scheduled session.  
+<img src="./media/ss (16).png" style="max-width: 500px;" />  
 
-> It is your decision to make the cost reasonable relative to the work
+---
 
-## Advance payment
+## Incomplete Works  
 
-> 20% of full payment
+- **Payment Method**  
+- **Hosting**  
+- **Testing**  
+- **Mobile App**  
+
+---
+
+## Requirements  
+
+- **Domain Name**  
+- **Cloud VPS**  
+- **WhatsApp Account**  
+- **Payment Gateway**  
+
+---
+
+## Cost  
+
+- **Domain** | Price: $9  
+- **VPS** | Contabo.com | 6 Core | 16GB RAM | 200GB Storage | $135 for 1 Year  
+- **PayHere Gateway** | BR Registration | Bank Account | 3000 LKR  
+- **Google Play Console** | $25  
+
+---
+
+## Development Payment  
+
+- The cost should be reasonable relative to the work completed.  
+
+---
+
+## Advance Payment  
+
+- 20% of the total payment.
