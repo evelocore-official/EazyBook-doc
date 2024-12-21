@@ -90,3 +90,14 @@ The application consists of two sides: **Doctor** and **Patient**.
 
 > Testing
 
+## Requirements
+
+> Domain name
+
+> Cloud vps
+
+## Development cost
+
+> On your mind
+
+
