@@ -127,7 +127,7 @@ The application consists of two sides: **Doctor** and **Patient**.
 
 ## Development Payment  
 
-- The cost should be reasonable relative to the work completed.  
+- LKR 160,000
 
 ---
 
