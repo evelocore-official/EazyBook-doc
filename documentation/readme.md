@@ -96,8 +96,10 @@ The application consists of two sides: **Doctor** and **Patient**.
 
 > Cloud vps
 
-## Development cost
+## Development payment
 
-> On your mind
+> It is your decision to make the cost reasonable relative to the work
 
+## Advance payment
 
+> 20% of full payment
