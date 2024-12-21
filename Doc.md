@@ -1,4 +1,5 @@
-# Roadmap for EasyBook Doc Channel System Powered by eveloCore
+# Roadmap for EasyBook Doc Channel System 
+> Powered by evelocore
 
 The application consists of two sides: **Doctor** and **Patient**.
 
@@ -62,3 +63,13 @@ The application consists of two sides: **Doctor** and **Patient**.
   - **Your Appointment Number**
   - **Current Patient**
 - When a patient's turn comes, a nurse opens the door and announces the appointment number along with the patient’s name.
+
+---
+## Incompleated Works
+
+> Payment Method
+
+> Hosting
+
+> Testing
+
